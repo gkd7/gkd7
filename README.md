@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @gourav
-- 👀 I’m interested in python
-- 🌱 I’m currently learning python and django
-- 💞️ I’m looking to collaborate on python project
 - 📫 How to reach me gouravdhote923@gmail.com
 
 <!---
